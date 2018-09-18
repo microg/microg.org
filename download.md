@@ -77,6 +77,19 @@ Nonetheless we provide direct downloads of apk files.
 > > > > %btn-group%
 > > > > <a href="https://github.com/microg/android_packages_apps_UnifiedNlp/releases" class="btn btn-default btn-dl">Download stable [via GitHub](class:ver)</a>
 
+[](id:app_com_google_android_maps)
+> %fdroid-dl-app%
+> > %row%
+> > > %col-sm-1%
+> > > <img src="/img/gmscore_96px.png" height="48">
+> >
+> > > %col-sm-8%
+> > > [microG Maps API v1](class:name) [com.google.android.maps](class:pname)
+> >
+> > > %col-sm-3%
+> > > > %btn-group%
+> > > > <a href="https://github.com/microg/android_frameworks_mapsv1/releases" class="btn btn-default btn-dl">Download stable [via GitHub](class:ver)</a>
+
 <script src="/js/jquery-2.2.1.min.js"></script>
 <script src="/js/fdroid.js"></script>
 <script type="text/javascript">
