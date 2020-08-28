@@ -38,3 +38,8 @@ Components
 
   [More details and installation instructions](https://github.com/microg/android_frameworks_mapsv1)
 - **Store (Phonesky)** is a frontend application providing access to the Google Play Store to download and update applications. Development is in early stage and there is no usable application yet.
+
+Donate
+------
+
+The microG project can be supported with donatations via [Liberapay](https://liberapay.com/microG).
